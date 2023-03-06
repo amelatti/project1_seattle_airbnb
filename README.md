@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-Necessary libraries to run the code include: @@@.  The code has been run on Python 3.8.
+Necessary libraries to run the code include: pandas, numpy, sklearn, and plotly.  The code has been run on Python 3.8.
 
 ## Goals of the Project<a name="motivation"></a>
 
@@ -23,7 +23,7 @@ What should an investor know when looking to buy a Seattle apartment that they w
 
 ## File Descriptions <a name="files"></a>
 
-@@@ Jupyter notebook file XYZ.ipynb includes the code that was used to analyze the Seattle Airbnb data set.
+@@@ Jupyter notebook file seattle_airbnb_analysis_amelatti_030423.ipynb includes the code that was used to analyze the Seattle Airbnb data set.
 
 ## Results<a name="results"></a>
 
