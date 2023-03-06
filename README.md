@@ -14,10 +14,10 @@ Necessary libraries to run the code include: @@@.  The code has been run on Pyth
 
 For this project, I wanted to use the Seattle Airbnb Open data to determine:
 
-What should a first-time Seattle Airbnb owner expect?
-1. Does price of an airbnb influence how often it is booked?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
+What should an investor know when looking to buy a Seattle apartment that they will rent out on Airbnb?
+1. Which zip codes in the Seattle area are associated with higher apartment rent prices?
+2. Does "super host" status influence allow an owner to charge more for their apartment, and should the investor try and become one?
+3. What are some of the key contributing factors that "super hosts" have, and what should our investor aim to do to become one?
 
 
 
